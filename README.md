@@ -41,8 +41,8 @@
 
 
 
-
-
+## Views
+![wait and watch](https://count.getloli.com/@mahirtantod?name=mahirtantod&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 
 
