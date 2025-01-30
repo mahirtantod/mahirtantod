@@ -33,7 +33,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm MahirTantod</h1>
+<h1 align="center">Hi 👋, I'm Mahir Tantod</h1>
 
 
 <h3 align="left">Connect with me:</h3>
